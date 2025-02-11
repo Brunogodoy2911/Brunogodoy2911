@@ -1,8 +1,8 @@
-## Olá! Eu sou o Bruno Henrique, desenvolvedor mobile!
+## Olá! Eu sou o Bruno Henrique, desenvolvedor Web & Mobile!
 
   💻 Bruno Henrique de Godoy <br/>
-  📱 Desenvolvedor Mobile | React Native | TypeScript | JavaScript <br/>
-  🚀 Apaixonado por criar aplicativos nativos e soluções inovadoras. <br/>
+  📱 & 💻 Desenvolvedor React | React Native | TypeScript | JavaScript <br/>
+  🚀 Apaixonado por criar aplicativos nativos, sites e soluções inovadoras. <br/>
   🎓 Técnico em Desenvolvimento de Sistemas e graduando em Análise e Desenvolvimento de Sistemas, <br/> sempre aprendendo e compartilhando conhecimento.
 
  <div>
