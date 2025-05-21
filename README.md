@@ -6,9 +6,17 @@
 
 ## 👨‍💻 Sobre mim
 
-📱 & 💻 Desenvolvedor **React | React Native | TypeScript | Java | Spring** <br/>
-🚀 Apaixonado por criar aplicativos nativos, sites e soluções inovadoras. <br/>
-🎓 **Técnico em Desenvolvimento de Sistemas** e graduando em **Análise e Desenvolvimento de Sistemas**. <br/>
+🎮 Comecei a programar inspirado por jogos, mas fiquei fascinado pelo poder de transformar ideias em soluções reais. Hoje, crio aplicações que resolvem problemas de verdade com foco em usabilidade e performance.
+
+📱 No meu TCC técnico, desenvolvi um app mobile completo em React Native integrado ao Firebase, pensado para ajudar personal trainers a organizarem as fichas de treino de seus alunos. Nele, implementei autenticação, banco de dados em tempo real, armazenamento de imagens e recursos avançados como gestos e animações — tudo com foco na experiência do usuário.
+
+📚 Além do curso técnico, sigo me especializando com formações práticas como o bootcamp da Generation Brasil (Java + Spring Boot) e cursos em React e Next.js pela Rocketseat. Meu objetivo agora é atuar como Desenvolvedor Full Stack, colaborando em projetos inovadores, com times engajados e que valorizam aprendizado contínuo.
+
+💼 Estou pronto para contribuir com soluções eficientes, código limpo e muita vontade de crescer!
+
+🔗 Vamos conversar?  
+📩 Me chame por aqui ou acesse:  
+➡️ [LinkedIn](https://www.linkedin.com/in/brunogodoydev/)
 
 ---
 
