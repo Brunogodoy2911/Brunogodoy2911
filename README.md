@@ -15,7 +15,7 @@
 💼 Estou pronto para contribuir com soluções eficientes, código limpo e muita vontade de crescer!
 
 🔗 Vamos conversar?  
-📩 Me chame por aqui ou acesse:  
+📩 Me chame por aqui:  
 ➡️ [LinkedIn](https://www.linkedin.com/in/brunogodoydev/)
 
 ---
