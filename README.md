@@ -6,17 +6,15 @@
 
 ## 👨‍💻 Sobre mim
 
-🎮 Comecei a programar inspirado por jogos, mas fiquei fascinado pelo poder de transformar ideias em soluções reais. Hoje, crio aplicações que resolvem problemas de verdade com foco em usabilidade e performance.
+Desenvolvedor Full Stack apaixonado por tecnologia e pela capacidade que ela nos dá de transformar ideias complexas em soluções práticas e eficientes. Minha jornada na programação é movida pela busca constante de conhecimento e pela aplicação de boas práticas para construir produtos digitais de alta qualidade.
 
-📱 No meu TCC técnico, desenvolvi um app mobile completo em React Native integrado ao Firebase, pensado para ajudar personal trainers a organizarem as fichas de treino de seus alunos. Nele, implementei autenticação, banco de dados em tempo real, armazenamento de imagens e recursos avançados como gestos e animações — tudo com foco na experiência do usuário.
+Com uma base sólida que une o ensino superior em Análise e Desenvolvimento de Sistemas a formações intensivas, como o bootcamp da Generation Brasil, adquiri proficiência no desenvolvimento de APIs RESTful robustas com Java e Spring Boot. No frontend, especializo-me na criação de interfaces dinâmicas e intuitivas com React, React Native e Next.js, sempre com foco na performance e na experiência do usuário.
 
-📚 Além do curso técnico, sigo me especializando com formações práticas como o bootcamp da Generation Brasil (Java + Spring Boot) e cursos em React e Next.js pela Rocketseat. Meu objetivo agora é atuar como Desenvolvedor Full Stack, colaborando em projetos inovadores, com times engajados e que valorizam aprendizado contínuo.
+Um dos meus projetos de maior orgulho é um aplicativo mobile completo, desenvolvido como TCC, que utiliza React Native e Firebase para otimizar a gestão de treinos de personal trainers. Este projeto demonstra minha capacidade de lidar com autenticação, dados em tempo real e de criar uma experiência de uso fluida e profissional.
 
-💼 Estou pronto para contribuir com soluções eficientes, código limpo e muita vontade de crescer!
+Além da técnica, valorizo imensamente o trabalho em equipe. Tenho vivência prática com metodologias ágeis como Scrum e Kanban, utilizando Git e GitHub para controle de versão e colaboração. Tive a oportunidade de atuar como Scrum Master, facilitando cerimônias e garantindo a produtividade da equipe.
 
-🔗 Vamos conversar?  
-📩 Me chame por aqui:  
-➡️ [LinkedIn](https://www.linkedin.com/in/brunogodoydev/)
+Estou em busca de uma oportunidade para atuar como Desenvolvedor Full Stack, pronto para contribuir, aprender e crescer junto a uma equipe que respira inovação.
 
 ---
 
