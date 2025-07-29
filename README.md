@@ -46,4 +46,9 @@ Estou em busca de uma oportunidade para atuar como Desenvolvedor Full Stack, pro
 
 ---
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Brunogodoy2911.Brunogodoy2911&right_color=green"  />
+</div>
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ffffff&section=footer&textBg=false&fontColor=ffffff&fontSize=50&animation=fadeIn"/>
