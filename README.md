@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=ffffff&text=Bruno%20Godoy&section=header&textBg=false&fontColor=000000&fontSize=60&animation=fadeIn"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Eu+sou+o+Bruno+Godoy;Desenvolvedor+Web+%26+Mobile;React+Native+%7C+Spring+%7C+TypeScript+%7C+Java)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Eu+sou+o+Bruno+Godoy;Desenvolvedor+Web+%26+Mobile;React+%7C+Spring+%7C+TypeScript+%7C+Java)
 
 ---
 
