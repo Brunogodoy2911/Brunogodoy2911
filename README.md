@@ -6,13 +6,13 @@
 
 ## 👨‍💻 Sobre mim
 
-Desenvolvedor Full Stack apaixonado por tecnologia e pela capacidade que ela nos dá de transformar ideias complexas em soluções práticas e eficientes. Minha jornada na programação é movida pela busca constante de conhecimento e pela aplicação de boas práticas para construir produtos digitais de alta qualidade.
+Desenvolvedor Full Stack apaixonado por tecnologia, com formação técnica e atualmente graduando em Análise e Desenvolvimento de Sistemas. Minha jornada na programação é movida pela busca constante de conhecimento e pela aplicação de boas práticas para construir produtos digitais de alta qualidade.
 
-Com uma base sólida que une o ensino superior em Análise e Desenvolvimento de Sistemas a formações intensivas, como o bootcamp da Generation Brasil, adquiri proficiência no desenvolvimento de APIs RESTful robustas com Java e Spring Boot. No frontend, especializo-me na criação de interfaces dinâmicas e intuitivas com React, React Native e Next.js, sempre com foco na performance e na experiência do usuário.
+Com uma base sólida que une desde o ensino técnico, superior e até formações intensivas como o bootcamp da Generation Brasil , adquiri proficiência no desenvolvimento de APIs RESTful robustas com Java e Spring Boot. No frontend, especializo-me na criação de interfaces dinâmicas e intuitivas com React, React Native e Angular.js, sempre com foco na performance e na experiência do usuário.
 
-Um dos meus projetos de maior orgulho é um aplicativo mobile completo, desenvolvido como TCC, que utiliza React Native e Firebase para otimizar a gestão de treinos de personal trainers. Este projeto demonstra minha capacidade de lidar com autenticação, dados em tempo real e de criar uma experiência de uso fluida e profissional.
+Um dos projetos que tenho mais orgulho, HealthSync , uma plataforma SaaS desenvolvida para conectar personal trainers e seus alunos. A solução conta com dashboards distintos para cada perfil e uma interface rica construída com React, TypeScript e Tailwind CSS, consumindo uma API RESTful e demonstrando minha habilidade em entregar uma aplicação web completa.
 
-Além da técnica, valorizo imensamente o trabalho em equipe. Tenho vivência prática com metodologias ágeis como Scrum e Kanban, utilizando Git e GitHub para controle de versão e colaboração. Tive a oportunidade de atuar como Scrum Master, facilitando cerimônias e garantindo a produtividade da equipe.
+Além da técnica, valorizo imensamente o trabalho em equipe. Tenho vivência prática com metodologias ágeis como Scrum e Kanban e tive a oportunidade de atuar como Scrum Master, liderando projetos, organizando sprints e garantindo a produtividade da equipe.
 
 Estou em busca de uma oportunidade para atuar como Desenvolvedor Full Stack, pronto para contribuir, aprender e crescer junto a uma equipe que respira inovação.
 
