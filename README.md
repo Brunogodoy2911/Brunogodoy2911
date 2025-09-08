@@ -21,7 +21,7 @@ Estou em busca de uma oportunidade para atuar como Desenvolvedor Full Stack, pro
 ## 🚀 Minhas skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,ts,js,tailwind,java,spring,html,css,firebase,git,github,vscode,figma&perline=10" />
+  <img src="https://skillicons.dev/icons?i=react,angular,ts,js,tailwind,java,spring,python,c,html,css,firebase,git,github,vscode,figma&perline=10" />
 </div>
 
 ---
